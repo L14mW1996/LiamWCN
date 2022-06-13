@@ -1,0 +1,23 @@
+.mobile, .desktop{
+    display: none;
+}
+
+@media(orientation:portrait){
+    body{
+        background-color: black;
+        color:white;
+    }
+    .mobile{
+        display: block;
+    }
+}
+
+@media(orientation:landscape){
+    body{
+        background-color: white;
+        color:black;
+    }
+    .desktop{
+        display:block;
+    }
+}

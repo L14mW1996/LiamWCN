@@ -1,0 +1,17 @@
+Object oriented programming (OOP) is a form of code taking shape in which it uses objects, 
+things with attributes and 'characteristics' to form its shape. It is better used in larger scale
+projects as it allows for designers to create templates with commonalities opposed to having to 
+consistently repeat code that could end up messy and difficult to understand.
+
+OOP will often have classes, which are used as the overall template to be used to create new objects.
+Objects are what become defined when using the class, as you will, at this stage, assign values to them
+giving them 'characteristics'. Classes can also include methods, which are similar to functions except they are
+exclusive to that class. 
+
+An example of this could be storing data. Each person you store data on would share commonalities, 
+such as Name, Address, Phone Number and Email Address. Instead of creating a new variable and adding these
+each time, you could create a class called "New_entry" and within that define that they need each thing.
+Then when creating a new entry, you would have to input the same data for each one, saving a lot of time and
+making it easy for new designers to come in and understand what is going on, reducing the difficulty
+in keeping the code clean and reducing the chances of mistakes.
+

@@ -14,3 +14,7 @@ function taskHider(){
     let element = document.getElementById("task-box")
     element.classList.toggle("hidden");
 }
+
+function displayDate(){
+    document.getElementById("date").innerHTML = Date();
+}

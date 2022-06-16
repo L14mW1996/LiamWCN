@@ -9,3 +9,7 @@ h1 {
 .hidden {
     display: none;
 }
+
+h2{
+    color: red;
+}
